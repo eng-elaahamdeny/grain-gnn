@@ -2,7 +2,7 @@
 
 ## Problem Statement
 In materials science, metals are made of thousands of tiny crystal regions called grains.
-When metal is heated, some grains grow and others shrink — a process called grain growth.
+When metal is heated, some grains grow and others shrink : a process called grain growth.
 Predicting which grains will grow is important for understanding material strength and durability.
 
 This project represents a 2D metal microstructure as a graph and trains a Graph Neural Network
@@ -102,3 +102,7 @@ mechanical strength without running new simulations each time.
 - graph.png — visualization of grain graph
 - training.png — loss and accuracy curves
 - modification_comparison.png — GCN vs GAT comparison
+## Author
+**Elaa Hamdani**  
+Engineering Student at INSAT – Instrumentation & Industrial Maintenance Engineering  
+Specialized in AI & Aerodynamics
